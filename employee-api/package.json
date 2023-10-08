@@ -6,7 +6,7 @@
     "supertest": "^6.3.3"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node ./srv/server.js",
     "test": "jest"
   }
 }
